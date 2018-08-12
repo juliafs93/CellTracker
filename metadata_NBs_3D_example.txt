@@ -1,0 +1,1 @@
+Path	File	Name	Frames	Width	Height	Experiment/Volumes/Mac OS/NBs/Nact/	Nact 48h_NB 1_20161031.tif	_3D_new/	402	254	184	Nact
